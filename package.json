@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com//parcel-project-template.git"
   },
   "keywords": [],
   "author": "Unn2007 <alexander.repeta@gmail.com>",
@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.13.0"
   },
