@@ -29,4 +29,7 @@ function onSubmit(e) {
   console.log(JSON.parse(localStorage.getItem(FORM_STATE)));
   localStorage.removeItem(FORM_STATE);
   formRef.reset();
+  formContent.message="";
+  formContent.email="";
+
 }
